@@ -1,0 +1,3 @@
+<a href="resume.pdf" download>
+    <button style="background: #008080; color: white; padding: 10px; border: none;">Download Resume</button>
+</a>
